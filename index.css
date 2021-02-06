@@ -1,0 +1,11 @@
+body {margin: 0;}
+.game{ height: 400px; width: 600px; background-color: yellowgreen; position: absolute;
+  margin: 30px;
+}
+.prince{
+  background-color: red; width: 40px; height: 70px; position: absolute; bottom: 0;
+}
+
+.prince-slide{
+  background-color: red; width: 70px; height: 40px; position: absolute; bottom: 0;
+}
